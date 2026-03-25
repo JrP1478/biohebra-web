@@ -19,6 +19,10 @@ export const Content = styled("p")`
   font-size: 18px;
   color: #5a5a5a;
   max-width: 600px;
+  @media (max-width: 768px) {
+    flex-direction: column;
+    text-align: center;
+  }
 `;
 
 export const MiddleBlockContent = styled("p")`
@@ -36,6 +40,10 @@ export const StyledRow = styled(Row)`
 export const ContentWrapper = styled("div")`
   position: relative;
   max-width: 100%;
+
+  @media (max-width: 768px) {
+  width: 100% !important;
+}
 `;
 
 export const ServiceWrapper = styled("div")`
