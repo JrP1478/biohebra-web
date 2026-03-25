@@ -36,6 +36,18 @@
       "description": "Mayor durabilidad gracias a su costura manual. Ideal para trabajos de limpieza exigentes.",
       "price": "S/ 2.15 por kilo",
       "image": "img/products/trapo-industrial-cosido-manual-color.png"
+    },
+    {
+      "name": "Waipe - color",
+      "description": "Waipe industrial reciclado de alta absorción, ideal para limpieza de aceites, grasa y suciedad pesada en talleres e industria.",
+      "price": "S/ 2.55 por kilo",
+      "image": "img/products/waipe-color.png"
+    },
+    {
+      "name": "Waipe - blanco",
+      "description": "Waipe industrial de algodón seleccionado, libre de pelusa, ideal para limpieza fina, pulido y trabajos que requieren mayor precisión.",
+      "price": "S/ 4.35 por kilo",
+      "image": "img/products/waipe-blanco.png"
     }
   ]
 }
